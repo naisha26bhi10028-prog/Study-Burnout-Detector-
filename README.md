@@ -45,8 +45,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Testing
-Enter a valid assessment, analyse and save it, then verify History. Create at least two records and verify Trends. Open Recommendations and verify that suggestions correspond to detected risk factors. Also verify empty-state messages with no saved data.
-
 ## Disclaimer
 The project-defined score is an educational indicator and is not clinically validated.
